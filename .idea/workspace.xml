@@ -4,15 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bd246b4e-fb5b-4b11-8806-fc27989bd7e7" name="Changes" comment="hw">
-      <change afterPath="$PROJECT_DIR$/react2/src/hw2_1/components/Post.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react2/src/hw2_1/components/Posts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react2/src/hw2_2/components/SpaceXLaunches.js" afterDir="false" />
+    <list default="true" id="bd246b4e-fb5b-4b11-8806-fc27989bd7e7" name="Changes" comment="hw2">
+      <change afterPath="$PROJECT_DIR$/react2/src/hw/hw1/jsx.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react2/src/hw/hw2/part2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react2/src/hw/hw3/part3.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/react2/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/react2/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/react2/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/react2/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/react2/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/react2/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/react2/src/components/Character.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react2/src/hw2_1/components/Post.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react2/src/hw2_1/components/Posts.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react2/src/hw2_2/components/SpaceXLaunches.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +28,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="lesson2" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -50,16 +49,21 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "lesson2",
+    "git-widget-placeholder": "lesson3",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "editing.templates",
+    "settings.editor.selected.configurable": "project.propVCSSupport.Mappings",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\IdeaProjects\react1\react2\src\hw2_1" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -69,7 +73,8 @@
       <option name="presentableId" value="Default" />
       <updated>1706784811046</updated>
       <workItem from="1706784812310" duration="3452000" />
-      <workItem from="1707212820389" duration="836000" />
+      <workItem from="1707212820389" duration="1624000" />
+      <workItem from="1707476004038" duration="341000" />
     </task>
     <task id="LOCAL-00001" summary="hw">
       <option name="closed" value="true" />
@@ -87,7 +92,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706788232618</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="hw2">
+      <option name="closed" value="true" />
+      <created>1707213782197</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1707213782197</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -95,6 +108,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="hw" />
-    <option name="LAST_COMMIT_MESSAGE" value="hw" />
+    <MESSAGE value="hw2" />
+    <option name="LAST_COMMIT_MESSAGE" value="hw2" />
   </component>
 </project>
