@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bd246b4e-fb5b-4b11-8806-fc27989bd7e7" name="Changes" comment="hw3">
+    <list default="true" id="bd246b4e-fb5b-4b11-8806-fc27989bd7e7" name="Changes" comment="hw4">
       <change afterPath="$PROJECT_DIR$/react2/src/components/Albums/Albums.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/react2/src/components/Albums/index.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/react2/src/components/Coments/Coments.js" afterDir="false" />
@@ -81,7 +81,7 @@
       <workItem from="1706784812310" duration="3452000" />
       <workItem from="1707212820389" duration="1624000" />
       <workItem from="1707476004038" duration="367000" />
-      <workItem from="1707827470613" duration="616000" />
+      <workItem from="1707827470613" duration="862000" />
     </task>
     <task id="LOCAL-00001" summary="hw">
       <option name="closed" value="true" />
@@ -115,7 +115,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707476356943</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="hw4">
+      <option name="closed" value="true" />
+      <created>1707828336537</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1707828336537</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -124,6 +132,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="hw" />
     <MESSAGE value="hw2" />
-    <option name="LAST_COMMIT_MESSAGE" value="hw2" />
+    <MESSAGE value="hw4" />
+    <option name="LAST_COMMIT_MESSAGE" value="hw4" />
   </component>
 </project>
