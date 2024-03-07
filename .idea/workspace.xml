@@ -5,16 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bd246b4e-fb5b-4b11-8806-fc27989bd7e7" name="Changes" comment="hw4">
-      <change afterPath="$PROJECT_DIR$/react2/src/components/CarComponent.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react2/src/reducers/carsSlice.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/react2/src/store/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react2/src/app/episodesSlice.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react2/src/app/store.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react2/src/components/EpisodeDetail/EpisodeDetail.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react2/src/components/Episodes/Episodes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react2/src/pages/EpisodePage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react2/src/pages/Home.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/react2/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/react2/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/react2/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/react2/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/react2/src/components/EpisodeDetail/EpisodeDetail.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react2/src/components/Episodes/Episodes.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react2/src/pages/EdisodePage.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/react2/src/pages/Home.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react2/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/react2/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/react2/src/components/CarComponent.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react2/src/reducers/carsSlice.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/react2/src/store/index.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +34,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="lesson6" />
+        <entry key="$PROJECT_DIR$" value="lesson7" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -52,7 +55,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "lesson7",
+    "git-widget-placeholder": "lesson8",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",

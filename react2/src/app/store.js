@@ -1,8 +1,8 @@
 import { configureStore } from '@reduxjs/toolkit';
-import carsReducer from './reducers/carsSlice';
+import episodesReducer from './episodesSlice';
 
 export default configureStore({
     reducer: {
-        cars: carsReducer,
+        episodes: episodesReducer,
     },
 });
